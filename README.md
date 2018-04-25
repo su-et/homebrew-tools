@@ -39,10 +39,7 @@ You can then search for, get info about, and install brews and casks as with any
 
     % aws-tools
     awscli is installed
-    git is installed
-    git-crypt is installed
-    jq is installed
-    terraform is installed
+    ...
 
 ## Formula
 
